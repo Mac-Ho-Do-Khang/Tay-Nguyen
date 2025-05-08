@@ -1,0 +1,28 @@
+﻿  hcmcampaign.cpp
+D:\Downloads\TayNguyen2\hcmcampaign.cpp(494,45): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Downloads\TayNguyen2\hcmcampaign.cpp(495,50): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Downloads\TayNguyen2\hcmcampaign.cpp(532,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Downloads\TayNguyen2\hcmcampaign.cpp(689,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Downloads\TayNguyen2\hcmcampaign.cpp(696,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Downloads\TayNguyen2\hcmcampaign.cpp(956,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Downloads\TayNguyen2\hcmcampaign.cpp(956,40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Downloads\TayNguyen2\hcmcampaign.cpp(968,62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Downloads\TayNguyen2\hcmcampaign.cpp(974,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Downloads\TayNguyen2\hcmcampaign.cpp(974,40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Downloads\TayNguyen2\hcmcampaign.cpp(1030,60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Downloads\TayNguyen2\hcmcampaign.cpp(1066,60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Downloads\TayNguyen2\hcmcampaign.cpp(1072,34): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Downloads\TayNguyen2\hcmcampaign.cpp(1130,16): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\Downloads\TayNguyen2\hcmcampaign.cpp(1155,31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Downloads\TayNguyen2\hcmcampaign.cpp(1160,31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Downloads\TayNguyen2\hcmcampaign.cpp(1170,31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Downloads\TayNguyen2\hcmcampaign.cpp(1175,31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Downloads\TayNguyen2\hcmcampaign.cpp(1187,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Downloads\TayNguyen2\hcmcampaign.cpp(1202,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Downloads\TayNguyen2\hcmcampaign.cpp(1207,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Downloads\TayNguyen2\hcmcampaign.cpp(1218,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Downloads\TayNguyen2\hcmcampaign.cpp(1232,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Downloads\TayNguyen2\hcmcampaign.cpp(1237,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Downloads\TayNguyen2\hcmcampaign.cpp(1247,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Downloads\TayNguyen2\hcmcampaign.cpp(1252,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  TayNguyen2.vcxproj -> D:\Downloads\TayNguyen2\x64\Debug\TayNguyen2.exe
